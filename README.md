@@ -8,3 +8,5 @@ Small cli POC with the following goals:
   - Complete NPM packages
   - Other compiled binaries
   
+
+At the moment the POC fully fullfills the goals
